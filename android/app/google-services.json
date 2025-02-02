@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "325480975565",
+    "project_id": "reent-app",
+    "storage_bucket": "reent-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325480975565:android:69fab055c052d6a5f6ed84",
+        "android_client_info": {
+          "package_name": "com.example.myproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ZlSetwFrX2MwwNM9sfPk7K3vzHQandc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325480975565:android:c73f10b2fe6f5f9ef6ed84",
+        "android_client_info": {
+          "package_name": "com.example.project_oop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ZlSetwFrX2MwwNM9sfPk7K3vzHQandc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
